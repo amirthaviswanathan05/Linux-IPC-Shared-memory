@@ -25,7 +25,7 @@ Developed by : AMIRTHAVARSHINI V
 Register Number : 212223040014
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-~~~
+```
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
@@ -51,10 +51,11 @@ int main()
 
 	return 0;
 }
-~~~
+```
 
 ## OUTPUT
-![325687778-d04c6d0d-c0e2-4780-8fae-f71116a9a533](https://github.com/amirthaviswanathan05/Linux-IPC-Shared-memory/assets/149035397/91b63da1-9d2e-4056-88ee-f35b210ef2bd)
+![323344405-de0b1d3f-e53d-44fa-8002-869bcb2dad1a](https://github.com/amirthaviswanathan05/Linux-IPC-Shared-memory/assets/149035397/62e77e83-9f9e-4a0e-bf96-6e1e511524fc)
+
 
 
 # RESULT:
