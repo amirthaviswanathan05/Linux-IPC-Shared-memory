@@ -127,9 +127,6 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 
 ## OUTPUT
-![319538207-09a6887d-9efa-4f6c-b0f1-cebfbf92ea6d](https://github.com/amirthaviswanathan05/Linux-IPC-Shared-memory/assets/149035397/5f018d3c-6d00-4998-be7c-e54daff9f825)
-
-![319538261-88576617-5f52-4771-b06a-23c88a146bf7](https://github.com/amirthaviswanathan05/Linux-IPC-Shared-memory/assets/149035397/a7237148-2f3d-4923-8ef0-7dcf440def54)
 ![os exp 6](https://github.com/amirthaviswanathan05/Linux-IPC-Shared-memory/assets/149035397/a0541e46-c99c-4fad-86fc-29596f2b9f3d)
 
 
